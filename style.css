@@ -1,0 +1,65 @@
+<style>
+<style>
+<meta charset="utf-8">
+body {font-family: Arial;}
+    form.question
+    {
+      border: 1px solid #54ba4e;
+      border-width: 1px;
+      border-color: black;
+      padding: 8px;
+    }
+    textarea {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+    box-sizing: border-box;
+    }
+    button
+    {
+      padding: 8px;
+      margin-bottom: 10px;
+    }
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+.tab button {
+  background-color: inherit;
+  border: none;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+.tab button:hover {
+  background-color: #ddd;
+}
+.tab button.active {
+  background-color: #ccc;
+}
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+.topright {
+  float: right;
+  cursor: pointer;
+  font-size: 28px;
+}
+	input.easyout {
+		height: 50px;
+		padding: 5px;
+		width: 100%;
+	}
+	form.question
+    {
+      border: 1px solid #54ba4e;
+      border-width: 1px;
+      border-color: black;
+      padding: 8px;
+    }
+.topright:hover {color: red;}
+</style>
